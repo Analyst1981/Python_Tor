@@ -10,3 +10,6 @@ $ cd Python_Tor
 运行启动脚本 scheduler.py.py 也可以分别运行抓取，验证，socks5代理，启动tor服务
 
 $ python scheduler.py.py
+
+运行前此处proxy.py---》api=shodan.Shodan("此处需要shodanKEY") 
+#需要添加shodanKEY
