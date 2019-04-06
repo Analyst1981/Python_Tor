@@ -1,5 +1,5 @@
 # Python_Tor
-python  tor socks5
+使用python启动tor，预留socksport 9050
 下载使用
 将项目克隆到本地
 
