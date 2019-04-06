@@ -11,5 +11,6 @@ $ cd Python_Tor
 
 $ python scheduler.py.py
 
-运行前此处proxy.py---》api=shodan.Shodan("此处需要shodanKEY") 
-#需要添加shodanKEY
+运行前，在proxy.py--->api=shodan.Shodan("此处需要shodanKEY") #需要添加shodanKEY
+
+其中使用 https://github.com/cyubuchen/ProxySpider_spys  抓取socks代理的代码，表示感谢！
