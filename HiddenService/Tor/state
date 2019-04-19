@@ -1,0 +1,70 @@
+# Tor state file last generated on 2019-04-06 08:39:50 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard VeilsOfTheOnion 55580D71B317A072F4A4DCF6EA4EDB015734AEE7 DirCache
+EntryGuardDownSince 2019-04-06 00:39:41 2019-04-06 00:39:42
+EntryGuardAddedBy 55580D71B317A072F4A4DCF6EA4EDB015734AEE7 0.2.8.6 2019-03-26 11:14:59
+EntryGuardPathBias 38.000000 37.000000 25.000000 12.000000 0.000000 2.000000
+EntryGuardPathUseBias 2.000000 2.000000
+EntryGuard IKEA2 8792D9E57DD8F5B9685F7DE3116F2E495CB5AB9B DirCache
+EntryGuardDownSince 2019-04-05 23:57:37 2019-04-06 00:29:09
+EntryGuardAddedBy 8792D9E57DD8F5B9685F7DE3116F2E495CB5AB9B 0.2.8.6 2019-04-02 11:03:56
+EntryGuardPathBias 8.000000 8.000000 8.000000 0.000000 0.000000 0.000000
+EntryGuard topinambour2 DB8283A4E152010A9CAFDA63CC0F56ACA1556769 DirCache
+EntryGuardDownSince 2019-04-05 23:57:59 2019-04-06 00:29:56
+EntryGuardAddedBy DB8283A4E152010A9CAFDA63CC0F56ACA1556769 0.2.8.6 2019-04-02 19:59:51
+EntryGuardPathBias 4.000000 4.000000 4.000000 0.000000 0.000000 0.000000
+EntryGuard suthernfriend 171B71C46314F9BBBDEF73A70F9535CBBF3AFF9A DirCache
+EntryGuardDownSince 2019-04-05 14:18:03 2019-04-06 00:29:56
+EntryGuardAddedBy 171B71C46314F9BBBDEF73A70F9535CBBF3AFF9A 0.2.8.6 2019-03-20 07:34:09
+EntryGuard PowerRelay 88748052843CC93A02BE1D9E9B5B358AB3A104AA DirCache
+EntryGuardDownSince 2019-04-06 00:21:47 2019-04-06 00:30:18
+EntryGuardAddedBy 88748052843CC93A02BE1D9E9B5B358AB3A104AA 0.2.8.6 2019-03-10 19:35:12
+EntryGuard megatot 3D9CE80399B68C01377FEC42395E399B9ED16E18 DirCache
+EntryGuardDownSince 2019-04-06 00:27:49 2019-04-06 00:27:49
+EntryGuardAddedBy 3D9CE80399B68C01377FEC42395E399B9ED16E18 0.2.8.6 2019-03-11 19:40:27
+EntryGuard bauruine31 D58DA32A978FEADC1261B5A8763126F3E92B0849 DirCache
+EntryGuardDownSince 2019-04-06 00:31:35 2019-04-06 00:31:35
+EntryGuardAddedBy D58DA32A978FEADC1261B5A8763126F3E92B0849 0.2.8.6 2019-03-21 21:41:22
+TorVersion Tor 0.2.8.6 (git-4d217548e3f05569)
+LastWritten 2019-04-06 00:39:50
+TotalBuildTimes 49
+CircuitBuildTimeBin 1475 5
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 2175 1
+CircuitBuildTimeBin 2275 2
+CircuitBuildTimeBin 2325 1
+CircuitBuildTimeBin 2475 1
+CircuitBuildTimeBin 2525 2
+CircuitBuildTimeBin 2575 1
+CircuitBuildTimeBin 2875 2
+CircuitBuildTimeBin 2975 1
+CircuitBuildTimeBin 3075 1
+CircuitBuildTimeBin 3175 1
+CircuitBuildTimeBin 3425 2
+CircuitBuildTimeBin 3725 2
+CircuitBuildTimeBin 4025 1
+CircuitBuildTimeBin 4425 1
+CircuitBuildTimeBin 4525 1
+CircuitBuildTimeBin 4825 1
+CircuitBuildTimeBin 5425 1
+CircuitBuildTimeBin 6425 1
+CircuitBuildTimeBin 6475 1
+CircuitBuildTimeBin 6925 1
+CircuitBuildTimeBin 6975 1
+CircuitBuildTimeBin 7475 1
+CircuitBuildTimeBin 7925 1
+CircuitBuildTimeBin 10325 1
+CircuitBuildTimeBin 11125 1
+CircuitBuildTimeBin 11275 1
+CircuitBuildTimeBin 12125 1
+CircuitBuildTimeBin 12375 1
+CircuitBuildTimeBin 12825 1
+CircuitBuildTimeBin 15975 1
+CircuitBuildTimeBin 18475 2
+CircuitBuildTimeBin 18525 1
+CircuitBuildTimeBin 20225 2
+CircuitBuildTimeBin 23425 1
+CircuitBuildTimeBin 33075 1
+CircuitBuildTimeBin 38525 1
